@@ -8,7 +8,7 @@
         <li>SQL</li>
         <li>Bootstrap</li>
       </ul>
-   <h5 style="align:right;"> created by ~ sm_akil <h5>
+   <h5 style="align:right;"> created by :sparkling_heart:~ sm_akil ~:sparkling_heart: <h5>
   
           
       :sparkling_heart:**NOTE**:sparkling_heart:
