@@ -10,11 +10,9 @@
       </ul>
    <h5 style="align:right;"> created by ~ sm_akil <h5>
   
-      
-      <table>
+          
       :sparkling_heart:**NOTE**:sparkling_heart:
-      
-      
+     
       
       :star2::star2:**Developed by sm~akil**:star2:
 
@@ -37,4 +35,4 @@
 
             Username: sadik
             Password: 12345
-      </table>
+      
