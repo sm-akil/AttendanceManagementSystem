@@ -1,0 +1,67 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+header {
+  font-size: 15px;
+  font-style: bold;
+  text-align: center;
+}
+body {
+  color: black;
+  background-color: white;
+  font-family: Arial;
+  margin: 0;
+}
+table input {
+  background-color: white; 
+}
+table td button {
+  background-color: #627287;
+}
+
+.navbar {
+  font-size: 20px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: white; 
+  text-align: center;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color:
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.content {
+  flex: 30%;
+  background-color: white;
+  padding: 0px;
+  margin:  50px;
+}
+
+select {
+  font-size: 15px;
+}
+option {
+  font-size: 15px;
+}
+a:hover {
+  color: #28F307;
+}
+p {
+  font-size: 15px;
+}
