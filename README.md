@@ -13,11 +13,10 @@
       
   
 :sparkling_heart:**NOTE**:sparkling_heart:
-     
-   
-:point_right: **Recommended PHP Version 5.6.3**
-:point_right:    **Database Name: attmgsystem**
-:point_right:  **Admin/Student/Login Details are given inside**
+       
+* :point_right: **Recommended PHP Version 5.6.3**
+* :point_right:    **Database Name: attmgsystem**
+* :point_right:  **Admin/Student/Login Details are given inside**
 
         
       
