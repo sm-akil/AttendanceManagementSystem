@@ -1,4 +1,4 @@
-<h1>Database management Project<h1>
+<h1>Attendance Management Project<h1>
    <h3>Using language : <h3>
       <ul style="list-style-type:square;">
         <li>HTML</li>
